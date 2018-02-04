@@ -2,7 +2,7 @@
 <resources>
 
     <string name="loading">Loading...</string>
-    <string name="rights_1">Developed by LWYS</string>
+    <string name="rights_1">Developed by Dobby233Liu</string>
     <string name="rights_2">Used libsuperuser by Chainfire</string>
 	<string name="rooted">Rooted</string>
 	<string name="notroot">Not rooted</string>
