@@ -8,6 +8,5 @@
 	<string name="notroot">未 Root</string>
 	<string name="suver">SU 版本：</string>
 	<string name="suintver">SU 内部版本：</string>
-	<!--string name="interactive"互动式/string-->
-
+	
 </resources>

@@ -3,15 +3,12 @@
     package="com.l.roottest" >
 	<uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
     <application
-        android:allowBackup="true"
         android:label="RootTest"
-        android:theme="@android:style/Theme.Holo.Light" >
+        android:theme="@android:style/Theme.DeviceDefault" >
         <activity
-            android:name=".MainActivity"
-            android:label="RootTest" >
+            android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

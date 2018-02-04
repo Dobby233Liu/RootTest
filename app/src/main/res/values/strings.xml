@@ -8,6 +8,5 @@
 	<string name="notroot">Not rooted</string>
 	<string name="suver">SU Version: </string>
 	<string name="suintver">SU Version (internal): </string>
-	<!--string name="interactive">Interactive</string-->
-
+	
 </resources>
