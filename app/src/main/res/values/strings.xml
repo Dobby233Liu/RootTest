@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="loading">Loading...</string>
+    <string name="rights_1">Developed by LWYS</string>
+    <string name="rights_2">Used libsuperuser by Chainfire</string>
+	<string name="rooted">Rooted</string>
+	<string name="notroot">Not rooted</string>
+	<string name="suver">SU Version: </string>
+	<string name="suintver">SU Version (internal): </string>
+	<!--string name="interactive">Interactive</string-->
+
+</resources>

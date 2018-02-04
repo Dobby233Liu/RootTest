@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="loading">努力加载中...</string>
+    <string name="rights_1">由 LWYS 开发</string>
+    <string name="rights_2">使用 Chainfire 的 libsuperuser</string>
+	<string name="rooted">已 Root</string>
+	<string name="notroot">未 Root</string>
+	<string name="suver">SU 版本：</string>
+	<string name="suintver">SU 内部版本：</string>
+	<!--string name="interactive"互动式/string-->
+
+</resources>
